@@ -14,7 +14,7 @@ def fibonacci(maxint):
         >>>fibonacci(10)
         [0, 1, 1, 2, 3, 5, 8]
         >>>fibonacci(99)
-        [0, 1, 1, 2, 3, 5, 8]
+        [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
     """
     first_val, second_val = 0, 1
     fibonacci_list = [0]
